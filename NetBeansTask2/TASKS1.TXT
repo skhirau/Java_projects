@@ -1,0 +1,121 @@
+1. display all num between 1 and 100 asc/desc  using while
+   and do..while loop
+
+2. all even between 1 and 100 asc/ desc.
+
+3. all odd -----------------------------.
+
+4. get one number from user and display the factorial of that number.
+   5 :- 5 * 4 * 3 * 2 * 1 = 120
+
+5. get one value from user and display the sum of all the numbers
+   between 1 and that number.
+   5 :-   1 + 2 + 3 + 4 + 5 =15.
+
+6. get two numbers and display the first number raise to the power
+   of second number.
+
+   eg:- x=5 y=3
+	5 raise to the powre 3 = 125
+         
+		 		 
+
+7. get multi digits number from user and "display" the reverse of that number
+   eg  (clue : use % )
+   x     =  1234
+   output:  4321
+  
+  
+  
+8. get one number from user and store the reverse of that number in
+   another variable
+   a=1234
+   b=4321
+
+9. get one number from user and display total number of even and odd digits
+   in that given number
+   a =12345
+    even= 2
+    odd = 3
+
+10. get MULTI digits number from user and display as given
+    suppose 6452 is taken in a variable
+
+    a) 2546  (same as Q No. 7 )
+    b) 2
+       5
+       4
+       6
+    c) TWO FIVE FOUR SIX
+	
+	d) TWO UNITS
+	   FIVE TENS
+	   FOUR HUNDREDS
+	   SIX THOUSANDS
+    
+	e) SIX FOUR FIVE TWO
+    
+	f)       SIX THOUSANDS
+		 FOUR HUNDREDS
+		 FIVE TENS
+		 TWO UNITS
+	 
+
+11. get one number form user and check that given number is prime or not.
+     (a number which has exactly 2 factors is known as prime number.)
+
+12. get one number from user and display the table of given number.
+
+13. get one number from user and display all the numbers which fully divids
+    the given number (show the factors of that number!)
+    ex  20
+    factors 1,2,4,5,10,20
+
+13.1. FIND THAT GIVEN NUMBER IS PERFECT NUMBER OR NOT
+      (PERFACT NUMBER :- (SUM OF ITS FACTOR - ITSELF) IS ITSELF
+	6 :- 1 + 2 + 3 +6 -6 = 6
+      )
+	  
+14. Get two numbers, one for numerator and the other for denominator,
+    then simplify the given rational value.
+
+ex  420 / 1760    will be  21/88
+    
+
+
+	
+15. Get a multiple digits number from user and 
+    repeatitive sum the digits until the sum is 
+    a single digit value.
+    (Cyclic sum upto single digit)
+    67835    sum is 29   
+	29 is multi digit number so add the digits again
+	11    abhi bhi multi digit so
+        2	
+
+16. Get a number from user and show all PRIME factors (with its power);
+    ex:
+       20
+       2 to the power 2
+       5 to the power 1 	   
+	
+	
+
+17. get a COUNT value from user and show FIRST count number 
+    of PYTHAGORIAN TRIPLETS .
+	(2m)^2  + (m^2 - 1)^2  =  (m^2 + 1)^2
+	
+	 
+
+18. get a number from user and find that given number is perfact square number or not.
+    (HINT : a perfact square is sum of first n odd numbers statring from 1,
+	        if it is a perfact square then n will be its square root.) 	
+	
+
+19. Get two numbers from user and show the HCF of given numbers.
+
+   
+	
+
+	
+     
