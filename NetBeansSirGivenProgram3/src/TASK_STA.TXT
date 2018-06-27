@@ -1,0 +1,47 @@
+1. get two numbers from user and display
+   a) sum   b) differance  3) multiplication   4) divi  and 5) remainder
+2. war a programme for simple intrest calculation
+3. get radius of a circle and calculate circumfrence. and area of that circle.
+4. get length and bredth of a rectangle and display area , perimeter of thAt.....
+5. get two angles of a triangle and calculate the third ang.
+6. mohan's monthly salary consists of basic salary + 18% TA 10 % HRA and 16 %
+   da ( on basic salary)  calculate the net salary for any give month.
+
+7. a shop is giving irrespective discounts to its customers. it gives 20%
+   trade dis. on any purchase , it also gives 5% cash discount on PURCHASE
+   LESS TRADE DIS. calculate the net payable amount.
+
+9. WAR a programme to find the surface area of a cylinder (2 pi r h).
+10. get two numbers from user and display the 2 nd numberTH % of first num
+    ex. 500 10  will be 50 .
+
+11.  Kutan's compny gives AJEEB type of discounts
+    (SUCCESSIE DISCOUNT) 
+    it writes N1% + N2% discounts
+    , get value of N1 N2  from user and show the flat discount given
+    by company
+	
+	
+	it is based on SUCCESSIVE discount ;
+	company gives N1 discount on mrp
+	secondly , on remaining amount (i.e mrp - (n1 %discount)  )
+	it gives N2% discount 
+	
+    ex :-  50 + 50  will be 75 % discount
+ 
+12. get temprature in degree C and show it in degree F .
+       F = 9/5 * c + 32 ;
+
+13. get temprature in degree F and show it in degree C .
+       c = 5/9 * (f-32) ;      
+    
+
+
+
+    ARITHMATICAL OPERATORS
+
+    *   MULTIPLICATION
+    /   DIVISION
+    +
+    -
+    %   modulous
